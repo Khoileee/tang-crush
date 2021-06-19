@@ -10,5 +10,5 @@ const CONFIG = {
     btnReply: 'Gửi',
     reply: ' :)) ',
     mess: 'Thế cơ àa hehe 🤤 Yêu m nhìu <3 ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://m.me/khoilee03' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
