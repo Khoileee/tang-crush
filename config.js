@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Đéo',
     question:'Ủa điều gì khiến m thít t vậy :))))))',
     btnReply: 'Gửi',
-    reply: ' :)) ',
+    reply: 'Do m đtrai vcl <3',
     mess: 'Thế cơ àa hehe 🤤 Yêu m nhìu <3 ',
     messLink: 'http://m.me/khoilee03' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
